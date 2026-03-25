@@ -21,6 +21,8 @@ switches, and stuff lying around in leftover parts boxes.
 
 ![New board stack, seen from magnet sensitive side](2025_board.jpeg)
 
+![New board stack, seen from underside of the serial baord](Underside_serial_board.jpeg)
+
 Feed it about 7 -- 12 Volts through the Uno power socket, connect an RS-232C
 cable to the shield, ensure everything is in a watertight container, and
 Robert will be your uncle.
